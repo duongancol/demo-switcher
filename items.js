@@ -1,4 +1,4 @@
-var $items, $defaultItem = 'careers_html';
+var $items, $defaultItem = 'cherry_wordpress';
 
 
 
@@ -6,68 +6,59 @@ var $items, $defaultItem = 'careers_html';
 // ---------------------------------------------------------
 $items = {
 
-  bingo_wordpress: {
-    name      : 'Bingo',
+  cherry_wordpress: {
+    name      : 'Cherry',
     tag       : 'WordPress',
-    img       : '//0.s3.envato.com/files/109941662/screenshots/00_preview.__large_preview.jpg',
-    url       : '//188.226.173.21/bingo/',
-    purchase  : '//themeforest.net/item/bingo-auction-wordpress-theme/9263645?ref=uouapps',
-    tooltip   : 'Build Your Own Auction Site With Wordpress',
-    responsive: false // To disable responsiveness buttons
+    img       : '//image-tf.s3.envato.com/files/150088754/cherry-preview.__large_preview.jpg',
+    url       : '//cherry.haintheme.com',
+    purchase  : '//themeforest.net/item/cherry-cafe-restaurant-wordpress-theme/11742970',
+    tooltip   : 'Cafe & Restaurant WordPress Theme',
   },
 
-  casa_wordpress: {
-    name      : 'Casa',
+  culinier_wordpress: {
+    name      : 'Culinier',
     tag       : 'WordPress',
-    img       : '//0.s3.envato.com/files/112676138/casa-preview.__large_preview.jpg',
-    url       : '//188.226.173.21/casa/',
-    purchase  : '//themeforest.net/item/casa-book-rent-or-buy-property/9274828?ref=uouapps',
-    tooltip   : 'Book, Rent or Buy Property'
+    img       : '//image-tf.s3.envato.com/files/147204554/culi-preview.__large_preview.jpg',
+    url       : '//haintheme.com/demo/wp/culinier',
+    purchase  : '//themeforest.net/item/culinier-food-recipe-wordpress-theme/11088564',
+    tooltip   : 'Food & Recipe Wordpress Theme'
   },
 
-  takeaway_wordpress: {
-    name      : 'Takeaway',
+  royalty_wordpress: {
+    name      : 'Royalty Shop',
     tag       : 'Wordpress',
-    img       : '//0.s3.envato.com/files/115530205/takeaway-preview.__large_preview.jpg',
-    url       : '//188.226.173.21/takeawaywp/',
-    purchase  : '//themeforest.net/item/takeaway-restaurant-online-food-ordering/9701608?ref=uouapps',
-    tooltip   : 'Online Food Ordering Theme'
+    img       : '//image-tf.s3.envato.com/files/119066489/preview-1.__large_preview.jpg',
+    url       : '//haintheme.com/demo/wp/royalty',
+    purchase  : '//themeforest.net/item/royalty-shop-restaurant-wordpress-theme/7987538',
+    tooltip   : 'Restaurant Wordpress Theme'
   },
 
-  globo_html: {
-    name      : 'Globo',
-    tag       : 'HTML',
-    img       : '//0.s3.envato.com/files/109804095/00_preview.__large_preview.jpg',
-    url       : '//188.226.173.21/globo/html/',
-    purchase  : '//themeforest.net/item/globo-directory-listings-html-template/9321666?ref=uouapps',
-    tooltip   : 'Directory & Listings HTML Template'
+  elijah_wordpress: {
+    name      : 'Elijah',
+    tag       : 'Wordpress',
+    img       : '//image-tf.s3.envato.com/files/147304486/elijah-preview.__large_preview.jpg',
+    url       : '//haintheme.com/demo/wp/elijah-home',
+    purchase  : '//themeforest.net/item/elijah-onepage-multi-layouts-wordpress-theme/9552679',
+    tooltip   : 'Onepage & Multi Layouts Wordpress Theme'
   },
 
-  careers_html: {
-    name      : 'Careers',
+  royalty_html: {
+    name      : 'Royalty Shop HTML',
     tag       : 'HTML',
-    img       : '//0.s3.envato.com/files/87927849/01_preview.__large_preview.jpg',
-    url       : '//188.226.173.21/html/careers/',
-    purchase  : '//themeforest.net/item/careers-job-portal-candidate-database-html/6184051?ref=uouapps',
-    tooltip   : 'Job Portal & Candidate Database'
+    img       : '//image-tf.s3.envato.com/files/111578898/royalty_preview/00preview.__large_preview.png',
+    url       : '//haintheme.com/demo/html/royalty',
+    purchase  : '//themeforest.net/item/royalty-shop-responsive-html-template/7269216',
+    tooltip   : 'Responsive HTML Template'
   },
 
-  casa_html: {
-    name      : 'Casa',
+  elijah_html: {
+    name      : 'Elijah HTML',
     tag       : 'HTML',
-    img       : '//0.s3.envato.com/files/87934617/01_preview.__large_preview.jpg',
-    url       : '//188.226.173.21/html/casa/',
-    purchase  : '//themeforest.net/item/casa-swap-book-rent-html-template-/6703459?ref=uouapps',
-    tooltip   : 'Swap, Book & Rent'
+    img       : '//image-tf.s3.envato.com/files/117529439/elijah-preview.__large_preview.jpg',
+    url       : '//haintheme.com/demo/html/elijah',
+    purchase  : '//themeforest.net/item/elijah-multipurpose-onepage-html-template/8520478',
+    tooltip   : 'Multipurpose Onepage HTML Template'
   },
 
-  takeaway_html: {
-    name      : 'TakeAway',
-    tag       : 'HTML',
-    img       : '//0.s3.envato.com/files/102669536/00_preview.__large_preview.jpg',
-    url       : '//188.226.173.21/takeaway/',
-    purchase  : '//themeforest.net/item/takeaway-restaurant-online-food-ordering/8719036?ref=uouapps',
-    tooltip   : 'Restaurant & Online Food Ordering'
-  }
 
 };
